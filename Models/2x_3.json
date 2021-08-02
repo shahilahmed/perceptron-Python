@@ -1,0 +1,7 @@
+{
+	"nodes" : 1,
+	"weights" : [2.000000000000001],
+	"bias" : 2.9999999999999973,
+	"activation_function" : 'relu',
+	"learning_rate" : 0.1
+}
